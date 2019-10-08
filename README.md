@@ -5,3 +5,9 @@ Repository di Informatica della classe 3J
 
 ## Introduzione
 - [concetti fondamentali dell'informatica](http://aptiva.v2.cs.unibo.it/wiki/index.php/Concetti_fondamentali_dell%27Informatica)
+
+## Diagrammi di flusso
+
+[numero pari](numeroPari.jpeg)
+
+[massimo di 3 numeri](MassimoDi3Numeri.jpeg)
