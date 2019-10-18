@@ -13,4 +13,6 @@ Repository di Informatica della classe 3J
 - [numero positivo o negativo](20191018_112718-small.png)
 - [prodotto con la somma](20191018_112735-small.png)
 - [max e min di n numeri](20191018_113831-small.png)
+- [prodotto positivi e somma negativi](20191018_114312-small.png)
+- [media di n numeri](20191018_114318-small.png)
 
