@@ -1,7 +1,8 @@
 # 2019-20_3J
 Repository di Informatica della classe 3J
 
-## [Link verifica 5/11/19](https://forms.gle/CwW8X6Dvb9BFQYNZ6) 
+## [Verifica 12/12/19](https://docs.google.com/forms/d/e/1FAIpQLSfuK1aZp4oYUlw-5oiDqdb9J3K2k_jrQQDOpwTZLsJJ348QcQ/viewform?usp=sf_link)
+
 
 ## [Link](https://script.google.com/macros/s/AKfycbx3Mn36N3G4CfGV-ju_NDdMtc9tr9-tkwm4Md-Xrei6GoYffiAs/exec) **per fare l'upload delle verifiche**
 
