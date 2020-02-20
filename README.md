@@ -20,3 +20,5 @@ Repository di Informatica della classe 3J
 - [prodotto positivi e somma negativi](20191018_114312-small.png)
 - [media di n numeri](20191018_114318-small.png)
 
+## Esercizi C#
+- [carattere più presente](caratterePiuPresente.cs)
